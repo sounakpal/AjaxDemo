@@ -1,0 +1,14 @@
+<code>$(document).ready(function(){</code>
+<code>	//code for the first div </code>
+<code>	$('#first ul a').on('click load',function(){</code>
+<code>		$('#first .container').load(this.href, function( response, status, xhr ) {</code>
+<code>		  if ( status == "error" ) {</code>
+<code>		    var msg = "Sorry but there was an error: ";</code>
+<code>		    $(this).html( msg + xhr.status + " " + xhr.statusText );</code>
+<code>		  }</code>
+<code>		});</code>
+<code>		return false;</code>
+<code>	});</code>
+<code>	//ends here</code>
+
+<code>});</code>

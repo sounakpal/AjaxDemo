@@ -1,0 +1,39 @@
+{
+    "first": {
+        "link1": "pages/page1.html",
+        "link2": "pages/page2.html",
+        "link3": "pages/page3.html",
+        "link4": "pages/page4.html",
+        "HowItWorks": "pages/howLoad.html",
+        "WhenNoPages": "pages/xxx.html",
+        "HowThisWorks": "pages/howthis.html"
+    },
+    "second": {
+        "link1": "2pages/page1.html",
+        "link2": "2pages/page2.html",
+        "link3": "2pages/page3.html",
+        "link4": "2pages/page4.html",
+        "HowItWorks": "pages/howLoad.html",
+        "WhenNoPages": "pages/xxx.html",
+        "HowThisWorks": "pages/howthis.html"
+    },
+    "third": {
+        "link1": "33pages/page1.html",
+        "link2": "3pages/page2.html",
+        "link3": "3pages/page3.html",
+        "link4": "pages/page4.html",
+        "HowItWorks": "pages/howLoad.html",
+        "WhenNoPages": "pages/xxx.html",
+        "HowThisWorks": "pages/howthis.html"
+    },
+    "fourth": {
+        "link1": "4pages/page1.html",
+        "link2": "4pages/page2.html",
+        "link3": "pages/page3.html",
+        "link4": "pages/page4.html",
+        "HowItWorks": "pages/howLoad.html",
+        "WhenNoPages": "pages/xxx.html",
+        "HowThisWorks": "pages/howthis.html"
+    }
+
+}

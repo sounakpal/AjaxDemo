@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <Players>
+ 	<Name playerName="Sergio Ramos">
+ 		<src>img/9.jpg</src>
+ 		<Born>March 30, 1986 (age 28)</Born>
+ 		<Height>1.83 m</Height>
+ 		<Salary>4.5 million EUR (2013)</Salary>
+ 		<Current>10Real Madrid C.F. </Current>
+ 	</Name>
+ 	<Name playerName="Andrés Iniesta">
+ 		<src>img/8.jpg</src>
+ 		<Born>May 11, 1984 (age 30)</Born>
+ 		<Height>1.70 m</Height>
+ 		<Salary>5 million EUR (2012)</Salary>
+ 		<Current>FC Barcelona</Current>
+ 	</Name>
+ 	<Name playerName="Cristiano Ronaldo">
+ 		<src>img/4.jpg</src>
+ 		<Born>February 5, 1985 (age 29)</Born>
+ 		<Height>1.85 m</Height>
+ 		<Salary>21 million EUR (2014)</Salary>
+ 		<Current>Real Madrid C.F. </Current>
+ 	</Name>
+ 	<Name playerName="Lionel Messi">
+ 		<src>img/10.jpg</src>
+ 		<Born>June 24, 1987 (age 27)</Born>
+ 		<Height>1.69 m</Height>
+ 		<Salary>16 million EUR (2014)</Salary>
+ 		<Current>FC Barcelona</Current>
+ 	</Name>
+ </Players>
